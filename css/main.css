@@ -1,3 +1,7 @@
+body {
+    background: lightsteelblue;
+}
+
 input {
     width: 60px;
 }
